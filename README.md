@@ -31,7 +31,7 @@ I build web applications and automate business workflows. For 6+ years I've work
 
 > Replace these with your own public projects as you build them.
 
-- **[Project name]** – one line on what it does and the result. Stack: [technologies]. [Link]
+- **HRMS** – one line on what it does and the result. Stack: PHP. https://transcribehub.in/hrms/index.php
 - **[AI automation project]** – one line on the problem it solves. Stack: Python, LLM APIs. [Link]
 - **[Full-stack app with CI/CD]** – deployed with Docker and GitHub Actions. [Live link]
 
@@ -42,8 +42,8 @@ I'm open to IT consulting projects, cloud migrations and web or automation work,
 ## 📫 Get in touch
 
 - Email: pradakhya@gmail.com
-- LinkedIn: [add your LinkedIn link]
-- Portfolio: [add your link, if any]
+- LinkedIn: https://www.linkedin.com/in/pradakhya-prabhudatta-routaray/
+- Portfolio: https://transcribehub.in/
 
 ## ⚡ Fun fact
 
